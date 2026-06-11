@@ -1,0 +1,3 @@
+../app/src/task_display.c:69:6:task_display_init	2
+../app/src/task_display.c:114:6:task_display_update	1
+../app/src/task_display.c:120:6:task_display_statechart	9

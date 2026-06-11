@@ -1,0 +1,2 @@
+../app/src/app.c:97:6:app_init	32	static,ignoring_inline_asm
+../app/src/app.c:133:6:app_update	16	static,ignoring_inline_asm

@@ -1,0 +1,10 @@
+15:18:09 **** Incremental Build of configuration Debug for project tdse-tp3_01-porting_c_code ****
+make -j4 all 
+arm-none-eabi-size  tdse-tp3_01-porting_c_code.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16584	    148	   2332	  19064	   4a78	tdse-tp3_01-porting_c_code.elf
+Finished building: default.size.stdout
+ 
+
+15:18:10 Build Finished. 0 errors, 0 warnings. (took 454ms)
+

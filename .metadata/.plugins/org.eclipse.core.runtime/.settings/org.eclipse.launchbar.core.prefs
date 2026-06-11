@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:tdse-tp3_03-system_setup_menu,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:tdse-tp3_02-porting_c_code
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:tdse-tp3_01-porting_c_code/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:tdse-tp3_01-porting_c_code/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:tdse-tp3_03-system_setup_menu/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:tdse-tp3_03-system_setup_menu/activeLaunchTarget=null\:---
